@@ -20,7 +20,7 @@ Diese FAQ kann Ihnen helfen, wenn Sie nur nach einer schnellen Antwort auf eine 
 
 *Wie sieht die BlueXP Economic Efficiency URL aus?*
 
-Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] Um auf die BlueXP Konsole zuzugreifen.
+Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.netapp.com/[] Um auf die BlueXP Konsole zuzugreifen.
 
 
 

@@ -29,8 +29,8 @@ Der Cloud Tiering-Prozess umfasst die folgenden Prozesse:
 . Wählen Sie *Tier Cold Data*.
 . Die nächsten Schritte hängen davon ab, ob bereits ein BlueXP Connector implementiert und der Cluster erkannt wurde:
 +
-** Wenn Sie den BlueXP Connector implementieren müssen, lesen Sie in der entsprechenden Dokumentation zu BlueXP nach https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^]. Andernfalls wird die Option zum Bereitstellen des Connectors nicht angezeigt, wenn Sie den Connector bereits bereitgestellt haben.
-** Wenn der Service das Cluster erkennen muss, finden Sie weitere Informationen unter https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erkennen von ONTAP Clustern vor Ort"^]. Wenn der Cluster bereits erkannt wurde, wird andernfalls die Option zum Erkennen des Clusters nicht angezeigt.
+** Wenn Sie den BlueXP Connector implementieren müssen, lesen Sie in der entsprechenden Dokumentation zu BlueXP nach https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"]. Andernfalls wird die Option zum Bereitstellen des Connectors nicht angezeigt, wenn Sie den Connector bereits bereitgestellt haben.
+** Wenn der Service das Cluster erkennen muss, finden Sie weitere Informationen unter https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erkennen von ONTAP Clustern vor Ort"]. Wenn der Cluster bereits erkannt wurde, wird andernfalls die Option zum Erkennen des Clusters nicht angezeigt.
 
 
 +
