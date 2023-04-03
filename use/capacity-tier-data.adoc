@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: Der Service „Economic Efficiency“ gibt Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service. 
+---
+= Tiering selten genutzter Daten in den Cloud-Storage und Freigabe des Storage –
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Der Service „Economic Efficiency“ gibt Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
+
+Von dort aus können Sie das Tiering der Daten und einfach zum Economic Efficiency Service zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
+
+Der Cloud Tiering-Prozess umfasst die folgenden Prozesse:
+
+* Stellen Sie einen Connector bereit
+* Cluster erkennen
+* Tiering in die Cloud einrichten
+
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Kapazitätsplanung*.
+. Wählen Sie *Storage-Optionen bewerten* für das Asset aus.
+. Wählen Sie *Tier Cold Data*.
+. Die nächsten Schritte hängen davon ab, ob bereits ein BlueXP Connector implementiert und der Cluster erkannt wurde:
++
+** Wenn Sie den BlueXP Connector implementieren müssen, lesen Sie in der entsprechenden Dokumentation zu BlueXP nach https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^]. Andernfalls wird die Option zum Bereitstellen des Connectors nicht angezeigt, wenn Sie den Connector bereits bereitgestellt haben.
+** Wenn der Service das Cluster erkennen muss, finden Sie weitere Informationen unter https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erkennen von ONTAP Clustern vor Ort"^]. Wenn der Cluster bereits erkannt wurde, wird andernfalls die Option zum Erkennen des Clusters nicht angezeigt.
+
+
++
+Der Economic Efficiency Service initiiert die Verbindung zum Cloud Tiering Service, einem weiteren NetApp BlueXP Service.
+
+. Wählen Sie *Connector Hinzufügen*.
+. Wählen Sie einen Cloud-Provider aus, und wählen Sie *Weiter*.
+. Wählen Sie *Weiter* oder *Weiter zur Bereitstellung*.
++
+Nach der Implementierung eines Connectors wird in BlueXP Cloud Tiering als nächstes der Cluster erkannt, sofern dies nicht bereits erkannt wurde.
+
+. Richten Sie nach dem Erkennung des Clusters das Tiering ein.
++
+Weitere Informationen zu Tiering finden Sie unter https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Dokumentation zu Cloud Tiering Services"^].
+
+

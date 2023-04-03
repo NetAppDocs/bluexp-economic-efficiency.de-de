@@ -1,0 +1,58 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-add.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: Der Service „Economic Efficiency“ bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind. 
+---
+= Kapazitäten ergänzen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Der Service „Economic Efficiency“ bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind.
+
+Eine der Empfehlungen besteht möglicherweise darin, die Kapazität durch Hinzufügen von Shelfs zu Ihrer bestehenden Seriennummer hinzuzufügen.
+
+Sie können diese Empfehlung auf einfache Weise als Angebotsanfrage oder als Anfrage nach alternativen Optionen an das NetApp Vertriebsteam übermitteln.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Kapazitätsplanung*.
+. Wählen Sie *Storage-Optionen bewerten* für das Asset aus.
+. Wählen Sie *Kapazität Hinzufügen*.
++
+Die Daten des Assets werden angezeigt.
+
++
+** Überprüfen Sie die Trends für Prognose, Auslastung, Latenz und IOPS.
+** Um Empfehlungen zu erhalten, wählen Sie *Storage-Optionen bewerten*.
++
+Auf der Seite „Define Capacity Requirements“ werden aktuelle und prognostizierte Kapazitätsprognosen sowie empfohlene zusätzliche Storage-Kapazitäten basierend auf dem prognostizierten Wachstum angezeigt.
+
+
+
+. Wählen Sie eine der Optionen auf der rechten Seite:
++
+** *Empfiehlt Add-on-Speicher basierend auf prognostiziertem Wachstum* und fügt optional einen Pufferprozentsatz hinzu.
+** *Empfiehlt Add-on-Speicher basierend auf benutzerdefiniertem Datenwachstum* und geben Sie die gesamte Add-on-Kapazität, die Sie wollen, nicht was empfohlen wird.
+
+
+. Wählen Sie *Weiter*.
++
+Es wird eine Reihe von Empfehlungen angezeigt.
+
+. Sehen Sie sich die Empfehlung für die von Ihnen ausgewählten Asset-Seriennummern an.
+. Führen Sie einen der folgenden Schritte aus:
++
+** Um die Empfehlung zu akzeptieren, wählen Sie *Weiter*. Der Antrag wird an einen NetApp Sales-Experten gesendet, der mit Ihnen gemeinsam die zusätzliche Kapazität erhöht, die Sie benötigen.
+** Um verschiedene Optionen anzufordern, wählen Sie *Alternative Optionen anfordern*, geben Sie Ihre Anfrage ein und wählen Sie *E-Mail senden*. Eine E-Mail wird an einen NetApp Vertriebsexperten weitergeleitet, der sich mit Ihnen in Verbindung setzt, um die Kapazitätsanforderungen zu erfüllen.
+
+
+. Überprüfen Sie die Anforderung nach zusätzlicher Kapazität, und wählen Sie *Bestätigen und Absenden*.
++
+Die Seite Status der Kapazitätsplanung wird angezeigt.
+
+. Überprüfen Sie den Status auf der Seite „Status der Kapazitätsplanung“.
+

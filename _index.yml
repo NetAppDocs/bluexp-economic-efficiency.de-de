@@ -1,0 +1,43 @@
+---
+indexpage:
+  lead: Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer
+    Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service
+    unterstützt Sie bei der Identifizierung von Clustern mit geringer Kapazität, bei
+    der Überprüfung der aktuellen und prognostizierten Kapazität sowie bei der Prüfung
+    der CPU-Auslastung, der IOPS-Performance und der Latenz-Performance, um mögliche
+    Probleme bei der Kapazität zu identifizieren.
+  tiles:
+  - title: Los geht's
+    links:
+    - title: Erfahren Sie mehr über den Economic Efficiency Service
+      url: "/get-started/intro.html"
+    - title: Was ist neu im Economic Efficiency Service
+      url: "/release-notes/whats-new.html"
+    - title: Schnellstart
+      url: "/get-started/quick-start.html"
+    - title: Voraussetzungen
+      url: "/get-started/prerequisites.html"
+    - title: Melden Sie sich beim Service für BlueXP an
+      url: "/get-started/capacity-login.html"
+    - title: Häufig gestellte Fragen
+      url: "/get-started/faq.html"
+  - title: Nutzung des Services zur wirtschaftlichen Effizienz
+    links:
+    - title: Überprüfung und Behebung von Kapazitätsproblemen
+      url: "/use/capacity-remediate-overview.html"
+    - title: Überprüfen Sie den Kapazitätsstatus
+      url: "/use/capacity-review-status.html"
+    - title: Kapazitäten ergänzen
+      url: "/use/capacity-add.html"
+    - title: Tiering selten genutzter Daten in den Cloud-Storage
+      url: "/use/capacity-tier-data.html"
+    - title: Stellen Sie die Erinnerung ein, um sie erneut zu überprüfen
+      url: "/use/capacity-reminders.html"
+  - title: Blogs und Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud Tiering Blog
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Cloud-Webinare
+      url: https://bluexp.netapp.com/events

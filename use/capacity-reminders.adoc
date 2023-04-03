@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, können Sie derzeit keine Aktion erforderlich auswählen und Erinnerungen für die erneute Prüfung nach 30, 60 oder 90 Tagen festlegen. 
+---
+= Stellen Sie die Erinnerung ein, um sie erneut zu überprüfen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, können Sie derzeit keine Aktion erforderlich auswählen und Erinnerungen für die erneute Prüfung nach 30, 60 oder 90 Tagen festlegen.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Kapazitätsplanung*.
+. Wählen Sie *Storage-Optionen bewerten* für das Asset aus.
+. Wählen Sie *Keine Aktion erforderlich*.
+. Wählen Sie aus, wann Sie erneut über ein potenzielles Problem mit geringer Kapazität benachrichtigt werden möchten: 30, 60 oder 90 Tage.
+. Wählen Sie *Speichern*.
+
+
+.Ergebnis
+Nach Ablauf dieser Zeit erscheint das Risiko erneut in der Liste der Risiken.

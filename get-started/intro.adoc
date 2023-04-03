@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
+summary: 'Der Kapazitätsplanungs-Service erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme).' 
+---
+= Erfahren Sie mehr über den Economic Efficiency Service
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service ermöglicht Ihnen Folgendes:
+
+* Identifizieren Sie Cluster mit geringer Kapazität.
+* Prüfen Sie Cluster auf aktuelle und prognostizierte Kapazität.
+* Prüfen Sie die CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten zur Behebung von Kapazitätsremaßnahmen zu ermitteln.
+
+
+Der Economic Efficiency Service erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
+
+Auf den Service kann in BlueXP unter der Kategorie *Governance* zugegriffen werden.
+
+Der wirtschaftliche Effizienz-Service gilt nur für AFF Systeme vor Ort (einschließlich Unified AFF und allen SAN-Array-Systemen).
+
+
+
+== Vorteile des Economic Efficiency Service
+
+Der Economic Efficiency Service bietet folgende Vorteile:
+
+* Zusätzlicher Kapazität lässt sich durch einen einfachen Prozess ermitteln
+* Bietet Ihnen einen zuverlässigen Berater und Empfehlungen zur Behebung von Kapazitätsproblemen in Ihrer Umgebung
+* Weniger Zeitaufwand für die Planung von zusätzlichem Storage
+
+
+
+
+== Kosten
+
+NetApp berechnet Ihnen keine Kosten für die Nutzung des Service. Wenn Sie kalte Daten auf Cloud-Storage verschieben möchten, müssen Sie Ihren Cloud-Provider prüfen, ob die Gebühren anfallen.

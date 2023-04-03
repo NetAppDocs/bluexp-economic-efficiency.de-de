@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, economic efficiency frequently asked questions 
+summary: 'Der Economic Efficiency Service erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme).' 
+---
+= Was ist neu
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Erfahren Sie, was am Economic Efficiency Service neu ist.
+
+
+
+== Bis 02. April 2023
+
+Der neue Service „Economic Efficiency“ erkennt Cluster mit derzeit oder mit prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazitäten für lokale AFF Systeme.
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Erfahren Sie mehr über diesen neuen Service"].

@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service unterstützt Sie bei der Identifizierung von Clustern mit geringer Kapazität, bei der Überprüfung der aktuellen und prognostizierten Kapazität sowie bei der Prüfung der CPU-Auslastung, der IOPS-Performance und der Latenz-Performance, um mögliche Probleme bei der Kapazität zu identifizieren. 
+---
+= Economic Efficiency Service
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

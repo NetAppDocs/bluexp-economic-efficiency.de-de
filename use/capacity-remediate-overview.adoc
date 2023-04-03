@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: Der Kapazitätsplanungs-Service NetApp BlueXP Economic Efficiency nutzt KI, um das Datenwachstum zu prognostizieren und hilft so bei der Planung. 
+---
+= Überprüfung und Behebung von Kapazitätsproblemen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Zur Kapazitätsplanung werden Bereiche mit geringer Kapazität in Ihrer Umgebung identifiziert, sowohl aktuelle als auch prognostizierte. Der NetApp BlueXP Economic Efficiency Service nutzt KI, um das Datenwachstum zu prognostizieren und unterstützt so die Planung. Der Economic Efficiency Service erkennt die Bereiche mit geringer Kapazität in Ihrer Umgebung und gibt Empfehlungen, wie die Probleme behoben werden können.
+
+Mit dem Economic Efficiency Service können Sie folgende Ziele erreichen:
+
+* link:../use/capacity-review-status.html["Überprüfen Sie den Kapazitätsplanungsstatus"]
+* link:../use/capacity-add.html["Kapazitäten ergänzen"]
+* link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in den Cloud-Storage und Freigabe des Storage –"]
+* link:../use/capacity-reminders.html["Wählen Sie Keine Aktion aus, und legen Sie Erinnerungen fest, um die Überprüfung erneut durchzuführen"]
+

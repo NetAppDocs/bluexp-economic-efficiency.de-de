@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Um den Economic Efficiency Service zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten. 
+---
+= Einrichtung des Services Economic Efficiency
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Um den Economic Efficiency Service zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten.
+
+* Prüfen link:../get-started/prerequisites.html["Voraussetzungen"] Und stellen Sie sicher, dass Ihre Umgebung bereit ist.
+* Connector in BlueXP erstellen.
+* Cluster in BlueXP entdecken
+
+
+Sie können einen Connector direkt in BlueXP erstellen und diesen Connector später im Economic Efficiency Service verwenden. Sie können den Connector auch in der Mitte des Prozesses zur Risikoeindämmung erstellen.
+
+Auf ähnliche Weise können Sie das Cluster mithilfe von BlueXP oder während der Risikoeindämmung vorab erkennen.
+
+
+
+== Connector in BlueXP erstellen
+
+Ein BlueXP Connector enthält Anmeldeinformationen für NetApp ONTAP Machines.
+
+Informationen zum Erstellen eines Connectors in BlueXP vor der Nutzung des Service finden Sie in der BlueXP Dokumentation, die sich in der Beschreibung befindet https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
+
+
+
+== Cluster in BlueXP entdecken
+
+Im Rahmen der Einrichtung werden der Cluster-Name, die IP, der Benutzername und das Passwort in BlueXP ermittelt.
+
+Anweisungen zur Verwendung des Service finden Sie unter https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erkennen von ONTAP Clustern vor Ort"^].

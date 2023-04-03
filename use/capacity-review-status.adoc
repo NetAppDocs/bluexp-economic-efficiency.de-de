@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überprüfen Sie den Support für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser.' 
+---
+= Überprüfen Sie den Kapazitätsplanungsstatus
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % liegen oder diesen voraussichtlich unterschreiten, werden diese vom Economic Efficiency Service als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt. Außerdem gibt der Economic Efficiency Service Empfehlungen, ob Sie Daten in Tiers einstufen oder zusätzliche Kapazitäten erwerben sollten.
+
+Sie können die folgenden Datentypen überprüfen, um bei der Behebung von Kapazitätsproblem zu helfen.
+
+* Plattform
+* Land, in dem sich das Asset befindet
+* Aktuelle und prognostizierte Kapazität nach Monat
+* Kapazitätsauslastung und Prozent
+* Latenztrends
+* IOPS-Trends
+
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Kapazitätsplanung*.
+. Wählen Sie *Storage-Optionen bewerten* für das Asset aus.
+. Wählen Sie eine der Optionen:
++
+** *Kapazität hinzufügen*: Weiter bis link:../use/capacity-add.html["Hinzufügen von Kapazitäten"].
+** *Tier Cold Data*: Weiter link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in Cloud-Storage und Freigabe von Storage –"].
+** *Keine Aktion erforderlich*: Weiter bis link:../use/capacity-reminders.html["Wählen Sie keine Aktion und setzen Sie Erinnerungen, um sie erneut zu überprüfen"].
+
+
+
