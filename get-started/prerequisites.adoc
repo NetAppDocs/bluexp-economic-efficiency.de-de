@@ -18,7 +18,7 @@ Um den Economic Efficiency Service zu nutzen, sollten Sie sicherstellen, dass Ih
 
 * Ihre Umgebung muss alle BlueXP Anforderungen erfüllen – einschließlich Anmeldung und Netzwerkzugriff über einen Webbrowser.
 +
-Verweisen Sie auf BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Checkliste für die ersten Schritte"].
+Verweisen Sie auf BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Checkliste für die ersten Schritte"^].
 
 * Sie müssen über die Zugangsdaten für die Cluster verfügen.
 * Es ist zwar keine Voraussetzung, aber hilfreich, wenn der BlueXP Connector vorhanden und aktiviert ist und das ONTAP System erkannt wird. Falls nicht, führt Sie der Service durch diese Prozesse.
