@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überprüfen Sie den Support für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser.' 
+summary: 'Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % liegen oder diesen voraussichtlich unterschreiten, werden diese vom Wirtschaftsservice als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt.' 
 ---
 = Überprüfen Sie den Kapazitätsplanungsstatus
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überpr�
 
 
 [role="lead"]
-Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % liegen oder diesen voraussichtlich unterschreiten, werden diese vom Economic Efficiency Service als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt. Außerdem gibt der Economic Efficiency Service Empfehlungen, ob Sie Daten in Tiers einstufen oder zusätzliche Kapazitäten erwerben sollten.
+Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % liegen oder diesen voraussichtlich unterschreiten, werden diese vom Wirtschaftsservice als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt. Des Weiteren gibt der Economic Efficiency Service Empfehlungen, ob Sie Daten in Tiers einstufen oder zusätzliche Kapazitäten beschaffen sollten.
 
 Sie können die folgenden Datentypen überprüfen, um bei der Behebung von Kapazitätsproblem zu helfen.
 

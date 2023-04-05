@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: Der Service „Economic Efficiency“ gibt Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service. 
+summary: Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service. 
 ---
 = Tiering selten genutzter Daten in den Cloud-Storage und Freigabe des Storage –
 :hardbreaks:
@@ -12,9 +12,9 @@ summary: Der Service „Economic Efficiency“ gibt Empfehlungen auf der Basis e
 
 
 [role="lead"]
-Der Service „Economic Efficiency“ gibt Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
+Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
 
-Von dort aus können Sie das Tiering der Daten und einfach zum Economic Efficiency Service zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
+Von dort aus können Sie das Daten-Tiering durchführen und problemlos zum wirtschaftlichen Service zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
 
 Der Cloud Tiering-Prozess umfasst die folgenden Prozesse:
 

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-add.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: Der Service „Economic Efficiency“ bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind. 
+summary: Der Service bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind. 
 ---
 = Kapazitäten ergänzen
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Der Service „Economic Efficiency“ bietet Empfehlungen für AFF Syst
 
 
 [role="lead"]
-Der Service „Economic Efficiency“ bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind.
+Der Service bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind.
 
 Eine der Empfehlungen besteht möglicherweise darin, die Kapazität durch Hinzufügen von Shelfs zu Ihrer bestehenden Seriennummer hinzuzufügen.
 

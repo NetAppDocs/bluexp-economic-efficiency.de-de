@@ -12,24 +12,24 @@ summary: 'Der Kapazitätsplanungs-Service erkennt Cluster mit aktueller oder pro
 
 
 [role="lead"]
-Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service ermöglicht Ihnen Folgendes:
+Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service bietet Ihnen folgende Vorteile:
 
 * Identifizieren Sie Cluster mit geringer Kapazität.
 * Prüfen Sie Cluster auf aktuelle und prognostizierte Kapazität.
 * Prüfen Sie die CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten zur Behebung von Kapazitätsremaßnahmen zu ermitteln.
 
 
-Der Economic Efficiency Service erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
+Der Service bietet Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme) und erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität. Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
 
 Auf den Service kann in BlueXP unter der Kategorie *Governance* zugegriffen werden.
 
-Der wirtschaftliche Effizienz-Service gilt nur für AFF Systeme vor Ort (einschließlich Unified AFF und allen SAN-Array-Systemen).
+Der wirtschaftliche Effizienz-Service gilt nur für AFF Systeme vor Ort (einschließlich Unified AFF und alle SAN-Array-Systeme).
 
 
 
-== Vorteile des Economic Efficiency Service
+== Vorteile des wirtschaftlichen Effizienzdienstes
 
-Der Economic Efficiency Service bietet folgende Vorteile:
+Der wirtschaftliche Effizienzdienst bietet folgende Vorteile:
 
 * Zusätzlicher Kapazität lässt sich durch einen einfachen Prozess ermitteln
 * Bietet Ihnen einen zuverlässigen Berater und Empfehlungen zur Behebung von Kapazitätsproblemen in Ihrer Umgebung

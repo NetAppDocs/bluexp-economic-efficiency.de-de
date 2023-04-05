@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: Um den Economic Efficiency Service zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten. 
+summary: Um den wirtschaftlichen Effizienzdienst zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten. 
 ---
-= Einrichtung des Services Economic Efficiency
+= Richten Sie den Service für wirtschaftliche Effizienz ein
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,14 +12,14 @@ summary: Um den Economic Efficiency Service zu verwenden, führen Sie ein paar S
 
 
 [role="lead"]
-Um den Economic Efficiency Service zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten.
+Um den wirtschaftlichen Effizienzdienst zu verwenden, führen Sie ein paar Schritte aus, um ihn einzurichten.
 
 * Prüfen link:../get-started/prerequisites.html["Voraussetzungen"] Und stellen Sie sicher, dass Ihre Umgebung bereit ist.
 * Connector in BlueXP erstellen.
 * Cluster in BlueXP entdecken
 
 
-Sie können einen Connector direkt in BlueXP erstellen und diesen Connector später im Economic Efficiency Service verwenden. Sie können den Connector auch in der Mitte des Prozesses zur Risikoeindämmung erstellen.
+Sie können einen Connector direkt in BlueXP erstellen und diesen Connector später im Rahmen des Services für wirtschaftliche Effizienz verwenden. Sie können den Connector auch in der Mitte des Prozesses zur Risikoeindämmung erstellen.
 
 Auf ähnliche Weise können Sie das Cluster mithilfe von BlueXP oder während der Risikoeindämmung vorab erkennen.
 

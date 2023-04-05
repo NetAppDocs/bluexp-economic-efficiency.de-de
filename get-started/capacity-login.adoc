@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: Starten Sie mit dem Economic Efficiency Service, indem Sie auf den Service in BlueXP zugreifen. 
+summary: Beginnen Sie mit dem Economic Efficiency Service, indem Sie auf den Service in BlueXP zugreifen. 
 ---
 = Nutzen Sie den Economic Efficiency Service von BlueXP
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Starten Sie mit dem Economic Efficiency Service, indem Sie auf den Serv
 
 
 [role="lead"]
-Sie verwenden NetApp BlueXP, um sich beim Economic Efficiency Service anzumelden.
+Sie verwenden NetApp BlueXP, um sich an einem wirtschaftlichen Effizienz-Service anzumelden.
 
 Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
 
