@@ -14,12 +14,12 @@ summary: 'Der Kapazitätsplanungs-Service erkennt Cluster mit aktueller oder pro
 [role="lead"]
 Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service bietet Ihnen folgende Vorteile:
 
-* Identifizieren Sie Cluster mit geringer Kapazität.
-* Prüfen Sie Cluster auf aktuelle und prognostizierte Kapazität.
+* Identifizieren Sie Storage-Assets in Ihrer Umgebung, die wenig Kapazität zeigen.
+* Prüfen Sie Assets auf aktuelle und prognostizierte Kapazitäten.
 * Prüfen Sie die CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten zur Behebung von Kapazitätsremaßnahmen zu ermitteln.
 
 
-Der Service bietet Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme) und erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität. Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
+Der wirtschaftliche Effizienz-Service erkennt Storage-Assets mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
 
 Auf den Service kann in BlueXP unter der Kategorie *Governance* zugegriffen werden.
 

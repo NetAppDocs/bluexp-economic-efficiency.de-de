@@ -12,7 +12,7 @@ summary: Der Service bietet Empfehlungen auf der Basis eines prognostizierten Da
 
 
 [role="lead"]
-Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
+Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage präsentiert der Service Empfehlungen zur Bewältigung des prognostizierten Kapazitätswachstums und eignet sich am besten für die Konfiguration der Storage-Assets. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
 
 Von dort aus können Sie das Daten-Tiering durchführen und problemlos zum wirtschaftlichen Service zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
 
