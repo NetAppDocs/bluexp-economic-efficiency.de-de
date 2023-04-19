@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service. 
+summary: Der BlueXP Service für wirtschaftliche Effizienz bietet Empfehlungen auf der Basis von prognostiziertem Datenwachstum. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage enthält der Service Empfehlungen, die dem prognostizierten Kapazitätswachstum entsprechen und für die Asset-Konfiguration am besten geeignet sind. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service. 
 ---
 = Tiering selten genutzter Daten in den Cloud-Storage und Freigabe des Storage –
 :hardbreaks:
@@ -12,9 +12,9 @@ summary: Der Service bietet Empfehlungen auf der Basis eines prognostizierten Da
 
 
 [role="lead"]
-Der Service bietet Empfehlungen auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage präsentiert der Service Empfehlungen zur Bewältigung des prognostizierten Kapazitätswachstums und eignet sich am besten für die Konfiguration der Storage-Assets. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem weiteren BlueXP Service.
+Die wirtschaftliche Effizienz von BlueXP gibt Empfehlungen auf der Basis von prognostiziertem Datenwachstum. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage präsentiert der Service Empfehlungen zur Bewältigung des prognostizierten Kapazitätswachstums und eignet sich am besten für die Konfiguration der Storage-Assets. Eine der Empfehlungen besteht darin, selten genutzte Daten mithilfe von Tiering in den Cloud-Storage zu verlagern, um Kapazität freizusetzen. Diese Empfehlung initiiert die Verbindung zu NetApp BlueXP Tiering (Cloud Tiering), einem weiteren BlueXP Service.
 
-Von dort aus können Sie das Daten-Tiering durchführen und problemlos zum wirtschaftlichen Service zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
+Von dort aus können Sie das Tiering der Daten übernehmen und problemlos zur wirtschaftlichen Effizienz von BlueXP zurückkehren, um auf anderen Systemen Maßnahmen zu ergreifen.
 
 Der Cloud Tiering-Prozess umfasst die folgenden Prozesse:
 
@@ -34,16 +34,16 @@ Der Cloud Tiering-Prozess umfasst die folgenden Prozesse:
 
 
 +
-Der Economic Efficiency Service initiiert die Verbindung zum Cloud Tiering Service, einem weiteren NetApp BlueXP Service.
+Die wirtschaftliche Effizienz von BlueXP initiiert die Verbindung zum BlueXP Tiering Service.
 
 . Wählen Sie *Connector Hinzufügen*.
 . Wählen Sie einen Cloud-Provider aus, und wählen Sie *Weiter*.
 . Wählen Sie *Weiter* oder *Weiter zur Bereitstellung*.
 +
-Nach der Implementierung eines Connectors wird in BlueXP Cloud Tiering als nächstes der Cluster erkannt, sofern dies nicht bereits erkannt wurde.
+Nach der Implementierung eines Connectors wird das Cluster durch BlueXP Tiering erkannt, sofern es noch nicht erkannt wurde.
 
 . Richten Sie nach dem Erkennung des Clusters das Tiering ein.
 +
-Weitere Informationen zu Tiering finden Sie unter https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Dokumentation zu Cloud Tiering Services"^].
+Weitere Informationen zu Tiering finden Sie unter https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["BlueXP Tiering-Dokumentation"^].
 
 

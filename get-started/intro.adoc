@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/intro.html 
 keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
-summary: 'Der Kapazitätsplanungs-Service erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme).' 
+summary: 'Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme).' 
 ---
-= Erfahren Sie mehr über den Economic Efficiency Service
+= Erfahren Sie mehr über die wirtschaftliche Effizienz von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,24 +12,24 @@ summary: 'Der Kapazitätsplanungs-Service erkennt Cluster mit aktueller oder pro
 
 
 [role="lead"]
-Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Der NetApp BlueXP Economic Efficiency Service bietet Ihnen folgende Vorteile:
+Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer Systemkapazitäten zu vermeiden. Die wirtschaftliche Effizienz von BlueXP ermöglicht Ihnen Folgendes:
 
 * Identifizieren Sie Storage-Assets in Ihrer Umgebung, die wenig Kapazität zeigen.
 * Prüfen Sie Assets auf aktuelle und prognostizierte Kapazitäten.
 * Prüfen Sie die CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten zur Behebung von Kapazitätsremaßnahmen zu ermitteln.
 
 
-Der wirtschaftliche Effizienz-Service erkennt Storage-Assets mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
+Die wirtschaftliche Effizienz von BlueXP ermittelt Storage-Assets mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Wenn Sie sich für eine Erweiterung der Kapazität entscheiden, wird eine Anfrage mit detaillierten Empfehlungen an Sie und einen NetApp Vertreter weitergeleitet. Diese Anfrage enthält alle Details, die erforderlich sind, um die Kapazitätsauswahl und Bestellanfrage zu vereinfachen.
 
 Auf den Service kann in BlueXP unter der Kategorie *Governance* zugegriffen werden.
 
-Der wirtschaftliche Effizienz-Service gilt nur für AFF Systeme vor Ort (einschließlich Unified AFF und alle SAN-Array-Systeme).
+Die wirtschaftliche Effizienz von BlueXP bezieht sich ausschließlich auf lokale AFF Systeme (einschließlich Unified AFF und alle SAN-Array-Systeme).
 
 
 
-== Vorteile des wirtschaftlichen Effizienzdienstes
+== Vorteile der wirtschaftlichen Effizienz von BlueXP
 
-Der wirtschaftliche Effizienzdienst bietet folgende Vorteile:
+Die wirtschaftliche Effizienz von BlueXP bietet folgende Vorteile:
 
 * Zusätzlicher Kapazität lässt sich durch einen einfachen Prozess ermitteln
 * Bietet Ihnen einen zuverlässigen Berater und Empfehlungen zur Behebung von Kapazitätsproblemen in Ihrer Umgebung

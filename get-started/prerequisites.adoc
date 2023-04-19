@@ -4,7 +4,7 @@ permalink: get-started/prerequisites.html
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
 summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überprüfen Sie den Support für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser.' 
 ---
-= Voraussetzungen für wirtschaftliche Effizienz
+= Voraussetzungen für die wirtschaftliche Effizienz von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überpr�
 [role="lead"]
 Prüfen Sie zunächst die Betriebsumgebung, die Anmeldung, den Netzwerkzugriff und den Webbrowser.
 
-Um den Economic Efficiency Service zu nutzen, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
+Um Blue Economic Efficiency zu nutzen, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
 
 * Ihre Umgebung muss alle BlueXP Anforderungen erfüllen – einschließlich Anmeldung und Netzwerkzugriff über einen Webbrowser.
 +

@@ -12,7 +12,7 @@ summary: Der Service bietet Empfehlungen für AFF Systeme auf der Basis eines pr
 
 
 [role="lead"]
-Der Service bietet Empfehlungen für AFF Systeme auf der Basis eines prognostizierten Datenwachstums. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind.
+Die wirtschaftliche Effizienz von BlueXP gibt Empfehlungen für AFF Systeme auf der Basis von prognostiziertem Datenwachstum. Sie können die Prognose akzeptieren oder Ihre eigene Prognose eingeben. Auf dieser Grundlage stellt der Service Empfehlungen vor, die den Projektionen des Kapazitätswachstums entsprechen und für die Asset-Konfiguration am besten geeignet sind.
 
 Eine der Empfehlungen besteht möglicherweise darin, die Kapazität durch Hinzufügen von Shelfs zu Ihrer bestehenden Seriennummer hinzuzufügen.
 

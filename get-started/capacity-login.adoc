@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: Beginnen Sie mit dem Economic Efficiency Service, indem Sie auf den Service in BlueXP zugreifen. 
+summary: Der Service in BlueXP macht den Einstieg in die wirtschaftliche Effizienz von BlueXP möglich. 
 ---
-= Nutzen Sie den Economic Efficiency Service von BlueXP
+= Profitieren Sie von der wirtschaftlichen Effizienz von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

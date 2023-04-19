@@ -1,27 +1,27 @@
 ---
 indexpage:
   lead: Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer
-    Systemkapazitäten zu vermeiden. Der NetApp BlueXP Service für wirtschaftliche
-    Effizienz unterstützt Sie bei der Identifizierung von Clustern mit geringer Kapazität,
-    bei der Überprüfung der aktuellen und prognostizierten Kapazität sowie bei der
-    Prüfung der CPU-Auslastung, der IOPS-Performance und Latenz-Performance, um Möglichkeiten
-    für Kapazitätserweiterungen zu ermitteln.
+    Systemkapazitäten zu vermeiden. Die wirtschaftliche Effizienz von BlueXP unterstützt
+    Sie bei der Identifizierung von Clustern mit geringer Kapazität, der Überprüfung
+    von Clustern auf aktuelle und prognostizierte Kapazität sowie der Prüfung der
+    CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten für
+    Kapazitätserweiterungen zu ermitteln.
   tiles:
   - title: Los geht's
     links:
-    - title: Erfahren Sie mehr über den Economic Efficiency Service
+    - title: Erfahren Sie mehr über die wirtschaftliche Effizienz von BlueXP
       url: "/get-started/intro.html"
-    - title: Was ist neu im wirtschaftlichen Effizienzdienst
+    - title: Was ist neu an der wirtschaftlichen Effizienz von BlueXP
       url: "/release-notes/whats-new.html"
     - title: Schnellstart
       url: "/get-started/quick-start.html"
     - title: Voraussetzungen
       url: "/get-started/prerequisites.html"
-    - title: Melden Sie sich beim Service für BlueXP an
+    - title: Melden Sie sich für die wirtschaftliche Effizienz von BlueXP an
       url: "/get-started/capacity-login.html"
     - title: Häufig gestellte Fragen
       url: "/get-started/faq.html"
-  - title: Nutzen Sie den Service zur wirtschaftlichen Effizienz
+  - title: Nutzen Sie die wirtschaftliche Effizienz von BlueXP
     links:
     - title: Überprüfung und Behebung von Kapazitätsproblemen
       url: "/use/capacity-remediate-overview.html"

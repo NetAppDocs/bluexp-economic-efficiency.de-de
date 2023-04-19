@@ -2,15 +2,15 @@
 section: get-started
 title: Los geht's
 entries:
-- title: Erfahren Sie mehr über den Economic Efficiency Service
+- title: Erfahren Sie mehr über die wirtschaftliche Effizienz von BlueXP
   url: "/get-started/intro.html"
 - title: Voraussetzungen
   url: "/get-started/prerequisites.html"
 - title: Schnellstart
   url: "/get-started/quick-start.html"
-- title: Richten Sie den Service für wirtschaftliche Effizienz ein
+- title: BlueXP wirtschaftlicher Effizienz einrichten
   url: "/get-started/capacity-setup.html"
-- title: Greifen Sie auf den Service von BlueXP zu
+- title: Profitieren Sie von der wirtschaftlichen Effizienz von BlueXP
   url: "/get-started/capacity-login.html"
 - title: Häufig gestellte Fragen
   url: "/get-started/faq.html"

@@ -12,7 +12,7 @@ summary: 'Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % liegen oder
 
 
 [role="lead"]
-Wenn Storage Assets in Ihrer Umgebung derzeit unter dem Schwellenwert von 970 % liegen oder diesen Prognosen zufolge unterschreiten, werden diese Ressourcen vom Wirtschaftsservice ermittelt und Sie erhalten eine Warnmeldung. Des Weiteren gibt der Economic Efficiency Service Empfehlungen, ob Sie Daten in Tiers einstufen oder zusätzliche Kapazitäten beschaffen sollten.
+Wenn Storage Assets in Ihrer Umgebung derzeit unter dem Schwellenwert von 90 % liegen oder diesen Prognosen zufolge unterschreiten, werden diese Ressourcen vom Wirtschaftsservice ermittelt und Sie erhalten eine Warnmeldung. Des Weiteren gibt der Economic Efficiency Service Empfehlungen, ob Sie Daten in Tiers einstufen oder zusätzliche Kapazitäten beschaffen sollten.
 
 Sie können die folgenden Datentypen überprüfen, um bei der Behebung von Kapazitätsproblem zu helfen.
 
@@ -30,7 +30,7 @@ Sie können die folgenden Datentypen überprüfen, um bei der Behebung von Kapaz
 . Wählen Sie eine der Optionen:
 +
 ** *Kapazität hinzufügen*: Weiter bis link:../use/capacity-add.html["Hinzufügen von Kapazitäten"].
-** *Tier Cold Data*: Weiter link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in Cloud-Storage und Freigabe von Storage –"].
+** *Tier Cold Data*: Weiter link:../use/capacity-tier-data.html["tiering selten genutzter Daten in Cloud Storage und Freigabe von Storage"].
 ** *Keine Aktion erforderlich*: Weiter bis link:../use/capacity-reminders.html["Wählen Sie keine Aktion und setzen Sie Erinnerungen, um sie erneut zu überprüfen"].
 
 

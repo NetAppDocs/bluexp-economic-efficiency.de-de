@@ -12,9 +12,9 @@ summary: Der Kapazitätsplanungs-Service NetApp BlueXP nutzt KI bei der Vorhersa
 
 
 [role="lead"]
-Zur Kapazitätsplanung werden Bereiche mit geringer Kapazität in Ihrer Umgebung identifiziert, sowohl aktuelle als auch prognostizierte. Der NetApp BlueXP Wirtschaftlichkeitseffizienzservice nutzt KI, um das Datenwachstum zu prognostizieren und erleichtert so die Planung. Der Service zur wirtschaftlichen Effizienz identifiziert die Bereiche mit geringer Kapazität in Ihrer Umgebung und gibt Empfehlungen, wie die Probleme behoben werden können.
+Zur Kapazitätsplanung werden Bereiche mit geringer Kapazität in Ihrer Umgebung identifiziert, sowohl aktuelle als auch prognostizierte. Die wirtschaftliche Effizienz von BlueXP nutzt KI, um das Datenwachstum zu prognostizieren und unterstützt so die Planung. Der Service zur wirtschaftlichen Effizienz identifiziert die Bereiche mit geringer Kapazität in Ihrer Umgebung und gibt Empfehlungen, wie die Probleme behoben werden können.
 
-Mit dem wirtschaftlichen Effizienzservice können Sie folgende Ziele erreichen:
+Die wirtschaftliche Effizienz von BlueXP lässt Sie folgende Ziele erreichen:
 
 * link:../use/capacity-review-status.html["Überprüfen Sie den Kapazitätsplanungsstatus"]
 * link:../use/capacity-add.html["Kapazitäten ergänzen"]
