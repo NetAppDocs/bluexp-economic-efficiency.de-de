@@ -14,7 +14,7 @@ summary: 'Erste Schritte mit der wirtschaftlichen Effizienz von BlueXP: Überpr�
 [role="lead"]
 Prüfen Sie zunächst die Betriebsumgebung, die Anmeldung, den Netzwerkzugriff und den Webbrowser.
 
-Um Blue Economic Efficiency zu nutzen, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
+Um die wirtschaftliche Effizienz von BlueXP zu nutzen, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
 
 * Ihre Umgebung muss alle BlueXP Anforderungen erfüllen – einschließlich Anmeldung und Netzwerkzugriff über einen Webbrowser.
 +
