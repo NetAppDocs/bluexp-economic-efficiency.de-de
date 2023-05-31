@@ -18,7 +18,7 @@ Um die wirtschaftliche Effizienz von BlueXP zu nutzen, sollten Sie sicherstellen
 
 * Ihre Umgebung muss alle BlueXP Anforderungen erfüllen – einschließlich Anmeldung und Netzwerkzugriff über einen Webbrowser.
 +
-Siehe https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["BlueXP Quick Start Guide"^] Und https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["BlueXP Netzwerkinformationen"^].
+Siehe https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["BlueXP Quick Start Guide"^] Und https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["BlueXP Netzwerkinformationen"^].
 
 * Sie müssen über die Zugangsdaten für die Cluster verfügen.
 * Es ist zwar keine Voraussetzung, aber hilfreich, wenn der BlueXP Connector vorhanden und aktiviert ist und das ONTAP System erkannt wird. Falls nicht, führt Sie der Service durch diese Prozesse.
