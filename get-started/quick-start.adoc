@@ -16,19 +16,19 @@ Hier finden Sie einen Überblick über die Schritte, die Sie für den Einstieg i
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Eins"] Voraussetzungen prüfen
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt"^].
+link:../get-started/prerequisites.html["Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Zwei"] Richten Sie den Service für wirtschaftliche Effizienz ein
 [role="quick-margin-para"]
-link:../get-started/capacity-setup.html["Führen Sie die Schritte zum Einrichten des Dienstes aus"^].
+link:../get-started/capacity-setup.html["Führen Sie die Schritte zum Einrichten des Dienstes aus"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Drittens"] Was kommt als Nächstes?
 [role="quick-margin-para"]
 Nachdem Sie den Service eingerichtet haben, gehen Sie wie folgt vor.
 
 [role="quick-margin-list"]
-* link:../use/capacity-review-status.html["Überprüfen Sie den Kapazitätsplanungsstatus"^].
-* link:../use/capacity-add.html["Kapazitäten ergänzen"^].
-* link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in den Cloud-Storage zur Freigabe von Storage"^].
-* link:../use/capacity-reminders.html["Optional können Sie Erinnerungen so einstellen, dass sie erneut überprüft werden"^].
+* link:../use/capacity-review-status.html["Überprüfen Sie den Kapazitätsplanungsstatus"].
+* link:../use/capacity-add.html["Kapazitäten ergänzen"].
+* link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in den Cloud-Storage zur Freigabe von Storage"].
+* link:../use/capacity-reminders.html["Optional können Sie Erinnerungen so einstellen, dass sie erneut überprüft werden"].
 
