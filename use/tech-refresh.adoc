@@ -1,0 +1,69 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: economic efficiency, tech refresh, technology update, hardware assessment 
+summary: Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen möchten, um herauszufinden, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftliche Technologieaktualisierung von BlueXP nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Ressourcen und gibt Ihnen Empfehlungen zur Vorgehensweise. 
+---
+= Bewerten Sie die Technologieaktualisierung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen möchten, um herauszufinden, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftliche Technologieaktualisierung von BlueXP nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Ressourcen und gibt Ihnen Empfehlungen zur Vorgehensweise.
+
+Die Bewertung umfasst folgende Schritte:
+
+* Wählen Sie die Systeme aus, die Sie bewerten möchten.
+* Geben Sie Ihre Anforderungen hinsichtlich Umgebungen, Workload-Typen, Kapazität, Performance und Budget an.
+* Informieren Sie sich über die Empfehlungen zu geeigneten Produkten und Cloud-Services, die die Performance in Ihrer Umgebung verbessern könnten.
+
+
+Systeme eignen sich aufgrund folgender Faktoren für eine Technologieaktualisierung?
+
+* Das Ende des Vertrags für technischen Support nähert sich dem Ende
+* Das Ende des Hardware-Lebenszyklus rückt näher
+
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
++
+image:tech-refresh-list.png["Seite zur Technologieaktualisierung, auf der die Registerkarte „Kandidaten für die Technologieaktualisierung“ angezeigt wird"]
+
+. Sehen Sie sich die Registerkarte *Tech Refresh candidates* an, in der alle Arbeitsumgebungen aufgelistet sind, die von einer Technologieaktualisierung profitieren könnten.
+. Wählen Sie die Arbeitsumgebung aus, in der Sie eine Bewertung erhalten möchten.
+. Wählen Sie auf der rechten Seite *Refresh bewerten*.
+. Wählen Sie in den Optionen zur Aktualisierung auswerten die Option *Bewertung durchführen* aus.
+. Wählen Sie das System oder die Systeme aus, auf denen die Bewertung durchgeführt werden soll, und wählen Sie *Weiter* aus.
+. Wählen Sie die gewünschten Umgebungstypen aus: Public Cloud, Hybrid Cloud oder On-Premises.
+. Wählen Sie alle Arten von Workloads aus, die Sie verarbeiten möchten: Geschäftskritische Applikationen, Data Lakes und Medien-Workflows, sekundärer Storage, weniger kritische Workloads, High-Performance-Analysen und Computing.
+. Geben Sie die Kapazitätsanforderungen in tib ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler, und wählen Sie *Next* aus.
+. Wählen Sie die Performance-Aspekte aus, die Sie bewältigen möchten: Niedrigste Latenz, höchste IOPS, gemischte Workloads oder Performance, die nicht wichtig ist, und wählen Sie *Next* aus.
+. Geben Sie ein Budget in US-Dollar ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler und wählen Sie *Weiter*.
++
+Eine Reihe von Empfehlungen wird auf verschiedenen Registerkarten für die ausgewählten Optionen angezeigt.
+
+. Besprechen Sie die Empfehlungen.
+. Um eine PDF-Datei der Empfehlungen herunterzuladen, wählen Sie *Download*.
+. Wenn Sie sich mit einem NetApp Vertriebsmitarbeiter über die Empfehlungen in Verbindung setzen möchten, wählen Sie *Vertrieb kontaktieren*.
++
+Auf einer Webseite werden Ihnen die Optionen angezeigt, aus denen Sie sich mit einem NetApp Vertriebsmitarbeiter in Verbindung setzen können.
+
+
+
+
+
+== Bereits ergriffene Bewertungen zur Technologieaktualisierung anzeigen
+
+Vielleicht möchten Sie sich die bereits von Ihnen vorgenommenen Bewertungen zur Technologieaktualisierung ansehen und die Empfehlungen erneut prüfen.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
+. Wählen Sie die Registerkarte *Tech Refresh candidates* aus, auf der alle Systeme aufgeführt sind, auf denen Sie eine Bewertung zur Aktualisierung der Technologie durchgeführt haben. Wählen Sie dann *Aktion anzeigen* in der Zeile aus, um die Bewertungen und Empfehlungen für dieses System anzuzeigen.
++
+Alternativ wählen Sie die Zeile aus, in der „Aktion ergriffen“ angezeigt wird, und wählen Sie *Ansicht* aus, um die Details des Systems anzuzeigen.
+
+. Anzeigen der Aktualisierungsempfehlungen
+

@@ -16,6 +16,12 @@ Erfahren Sie mehr über die Neuerungen bei der wirtschaftlichen Effizienz von Bl
 
 
 
+== Bis 08. November 2023
+
+Diese Version der wirtschaftlichen Effizienz von BlueXP enthält eine neue Option, mit der Sie Ihre Assets bewerten und feststellen können, ob eine Technologieaktualisierung empfohlen wird. Der Service umfasst eine neue Option zur technischen Aktualisierung in der linken Navigation, neue Seiten, auf denen Sie eine Bewertung Ihrer aktuellen Workloads und Ressourcen vornehmen können, sowie einen Bericht mit Empfehlungen für Sie.
+
+
+
 == Bis 02. April 2023
 
 Der neue BlueXP Service für wirtschaftliche Effizienz erkennt Storage-Assets mit aktueller oder prognostizierter niedriger Kapazität und gibt Empfehlungen zu Daten-Tiering oder zusätzlicher Kapazität für lokale AFF Systeme.
