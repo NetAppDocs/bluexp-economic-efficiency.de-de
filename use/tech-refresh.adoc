@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: use/tech-refresh.html 
 keywords: economic efficiency, tech refresh, technology update, hardware assessment 
-summary: Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen möchten, um herauszufinden, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftliche Technologieaktualisierung von BlueXP nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Ressourcen und gibt Ihnen Empfehlungen zur Vorgehensweise. 
+summary: Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen möchten, um herauszufinden, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftliche Technologieaktualisierung von BlueXP nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Ressourcen und gibt Ihnen Empfehlungen zur Vorgehensweise. Sie können aber auch eine Workload-Simulation ausprobieren. 
 ---
-= Bewerten Sie die Technologieaktualisierung
+= Bewertung einer Technologieaktualisierung
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,24 @@ summary: Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen m�
 
 
 [role="lead"]
-Wenn Sie bereits über Assets verfügen und eine Bewertung vornehmen möchten, um herauszufinden, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftliche Technologieaktualisierung von BlueXP nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Ressourcen und gibt Ihnen Empfehlungen zur Vorgehensweise.
+Wenn Sie bereits über Assets verfügen und feststellen möchten, ob eine Technologieaktualisierung empfohlen wird, können Sie die wirtschaftlichen Effizienztechnologieaktualisierungen von BlueXP nutzen. Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie in den vergangenen 90 Tagen AutoSupport-Protokolle an NetApp gesendet haben, kann der Service eine Workload-Simulation durchführen, um die Performance Ihrer Workloads auf neuer Hardware zu ermitteln.
+
+* <<Führen Sie eine Bewertung zur Aktualisierung durch>>
+* <<Simulieren Sie Workloads auf der neuen Hardware>>
+
+
+Systeme eignen sich aufgrund folgender Faktoren für eine Technologieaktualisierung?
+
+* Das Ende des Vertrags für technischen Support steht kurz vor dem Ende
+* Kurz vor dem Ende des Hardware-Lebenszyklus
+
+
+
+TIP: Sie können auf diese Funktion entweder über die wirtschaftliche Effizienz von BlueXP oder über NetApp Digital Advisor zugreifen.
+
+
+
+== Führen Sie eine Bewertung zur Aktualisierung durch
 
 Die Bewertung umfasst folgende Schritte:
 
@@ -21,36 +38,50 @@ Die Bewertung umfasst folgende Schritte:
 * Informieren Sie sich über die Empfehlungen zu geeigneten Produkten und Cloud-Services, die die Performance in Ihrer Umgebung verbessern könnten.
 
 
-Systeme eignen sich aufgrund folgender Faktoren für eine Technologieaktualisierung?
-
-* Das Ende des Vertrags für technischen Support nähert sich dem Ende
-* Das Ende des Hardware-Lebenszyklus rückt näher
-
-
 .Schritte
 . Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
 +
-image:tech-refresh-list.png["Seite zur Technologieaktualisierung, auf der die Registerkarte „Kandidaten für die Technologieaktualisierung“ angezeigt wird"]
+image:tech-refresh-list2.png["Seite zur Technologieaktualisierung mit den Kandidaten für die Technologieaktualisierung"]
 
 . Sehen Sie sich die Registerkarte *Tech Refresh candidates* an, in der alle Arbeitsumgebungen aufgelistet sind, die von einer Technologieaktualisierung profitieren könnten.
 . Wählen Sie die Arbeitsumgebung aus, in der Sie eine Bewertung erhalten möchten.
-. Wählen Sie auf der rechten Seite *Refresh bewerten*.
-. Wählen Sie in den Optionen zur Aktualisierung auswerten die Option *Bewertung durchführen* aus.
+. Wählen Sie in der Spalte Aktionen die Option *Refresh bewerten* aus.
++
+image:tech-refresh-systems.png["Die in die Technologieaktualisierung einbezogen werden müssen"]
+
 . Wählen Sie das System oder die Systeme aus, auf denen die Bewertung durchgeführt werden soll, und wählen Sie *Weiter* aus.
-. Wählen Sie die gewünschten Umgebungstypen aus: Public Cloud, Hybrid Cloud oder On-Premises.
-. Wählen Sie alle Arten von Workloads aus, die Sie verarbeiten möchten: Geschäftskritische Applikationen, Data Lakes und Medien-Workflows, sekundärer Storage, weniger kritische Workloads, High-Performance-Analysen und Computing.
-. Geben Sie die Kapazitätsanforderungen in tib ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler, und wählen Sie *Next* aus.
-. Wählen Sie die Performance-Aspekte aus, die Sie bewältigen möchten: Niedrigste Latenz, höchste IOPS, gemischte Workloads oder Performance, die nicht wichtig ist, und wählen Sie *Next* aus.
-. Geben Sie ein Budget in US-Dollar ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler und wählen Sie *Weiter*.
+. Anforderungen definieren:
++
+.. *Umgebungen*: Wählen Sie die gewünschten Umgebungsarten aus: Public Cloud, Hybrid Cloud oder On-Premises.
++
+image:tech-refresh-requirements-environments4.png["Die Seite für die Anforderungen zur Technologieaktualisierung zeigt die Umgebungsauswahl"]
+
+.. *Workloads*: Wählen Sie alle Arten von Workloads aus, die Sie managen möchten: Geschäftskritische Applikationen, High-Performance-Analysen und Computing, Data Lakes und Medien-Workflows, sekundärer Storage oder weniger kritische Workloads.
++
+image:tech-refresh-requirements-workload-tiles.png["Workload-Auswahl"]
+
+.. *Kapazität*: Geben Sie die Kapazitätsanforderungen in tib ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler und wählen Sie *Weiter*.
+.. *Performance*: Wählen Sie die Performance-Aspekte aus, die Sie bewältigen möchten: Niedrigste Latenz, höchste IOPS, gemischte Workloads oder Performance, die nicht wichtig ist, und wählen Sie *Next*.
++
+image:tech-refresh-requirements-performance-tiles.png["Performance-Optionen"]
+
+.. *Budget*: Geben Sie ein Budget in US-Dollar ein, schieben Sie den Schieberegler auf den Wert, oder setzen Sie den Cursor auf den Wert im Schieberegler und wählen Sie *Weiter*.
 +
 Eine Reihe von Empfehlungen wird auf verschiedenen Registerkarten für die ausgewählten Optionen angezeigt.
 
-. Besprechen Sie die Empfehlungen.
-. Um eine PDF-Datei der Empfehlungen herunterzuladen, wählen Sie *Download*.
-. Wenn Sie sich mit einem NetApp Vertriebsmitarbeiter über die Empfehlungen in Verbindung setzen möchten, wählen Sie *Vertrieb kontaktieren*.
-+
-Auf einer Webseite werden Ihnen die Optionen angezeigt, aus denen Sie sich mit einem NetApp Vertriebsmitarbeiter in Verbindung setzen können.
 
+
+. Besprechen Sie die Empfehlungen.
++
+image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktualisierung der Bewertung anzeigen"]
+
+. Führen Sie einen oder beide der folgenden Schritte aus:
++
+.. Um eine PDF-Datei der Empfehlungen herunterzuladen, wählen Sie *Download*.
+.. Wenn Sie sich mit einem NetApp Vertriebsmitarbeiter bezüglich der Empfehlungen in Verbindung setzen möchten, wählen Sie *Vertrieb kontaktieren*. Auf einer Webseite werden Optionen angezeigt, aus denen Sie sich an einen NetApp Vertriebsmitarbeiter wenden können.
+
+
+. Wählen Sie *Fertig*.
 
 
 
@@ -61,9 +92,106 @@ Vielleicht möchten Sie sich die bereits von Ihnen vorgenommenen Bewertungen zur
 
 .Schritte
 . Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
-. Wählen Sie die Registerkarte *Tech Refresh candidates* aus, auf der alle Systeme aufgeführt sind, auf denen Sie eine Bewertung zur Aktualisierung der Technologie durchgeführt haben. Wählen Sie dann *Aktion anzeigen* in der Zeile aus, um die Bewertungen und Empfehlungen für dieses System anzuzeigen.
-+
-Alternativ wählen Sie die Zeile aus, in der „Aktion ergriffen“ angezeigt wird, und wählen Sie *Ansicht* aus, um die Details des Systems anzuzeigen.
-
+. Wählen Sie die Registerkarte *Tech Refresh candidates* aus, auf der alle Systeme aufgeführt sind, auf denen Sie eine Bewertung zur Aktualisierung der Technologie durchgeführt haben. Wählen Sie dann aus dem Menü Aktionen in der Zeile für dieses System aus, um die Bewertungen und Empfehlungen für dieses System anzuzeigen.
+. Wählen Sie auf der Seite Aktualisierungsoptionen auswerten die Option *Empfehlung anzeigen* aus.
 . Anzeigen der Aktualisierungsempfehlungen
++
+image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktualisierung der Bewertung anzeigen"]
+
+
+
+
+
+== Simulieren Sie Workloads auf der neuen Hardware
+
+Wenn Sie in den vergangenen 90 Tagen AutoSupport-Protokolle an NetApp gesendet haben, bietet NetApp eine Simulation zur Performance Ihrer Workloads auf neuer Hardware.
+
+Sie können bestimmte Workloads in die Simulation ein- oder ausschließen. Sie können Workloads auch hinzufügen, wenn sie nicht in der Liste der vorhandenen Workloads aufgeführt werden.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
++
+image:tech-refresh-list2.png["Seite zur Technologieaktualisierung, auf der die Registerkarte „Kandidaten für die Technologieaktualisierung“ angezeigt wird"]
+
+. Sehen Sie sich die Registerkarte *Tech Refresh candidates* an, in der alle Arbeitsumgebungen aufgelistet sind, die von einer Technologieaktualisierung profitieren könnten.
+. Wählen Sie die Arbeitsumgebung aus, in der Sie eine Bewertung erhalten möchten.
+. Wählen Sie in der Spalte Aktionen die Option *Refresh bewerten* aus.
++
+
+NOTE: Der Service importiert Workload-Details zur Vorbereitung der Simulation.
+
++
+image:tech-refresh-simulation-requirements3.png["Seite „Workloads simulieren“ mit den Anforderungsoptionen"]
+
+. Gehen Sie auf der Seite „Workloads simulieren“ > „Workload-Anforderungen“ wie folgt vor:
++
+.. Um einen Workload hinzuzufügen, der noch nicht in der Liste enthalten ist, wählen Sie *Workload hinzufügen*. Weitere Informationen finden Sie unter <<Hinzufügen eines Workloads>>.
+.. *IOPS*: Optional können Sie die gewünschten IOPS für Ihre neue Hardware ändern.
+.. *Kapazität (tib)*: Ändern Sie optional die gewünschte Kapazität für Ihre neue Hardware.
+
+
+. Um Workloads auszuschließen, wählen Sie in der Spalte Aktionen die Option *Workload von Simulation ausschließen* aus.
++
+
+TIP: Um zuvor ausgeschlossene Workloads einzubeziehen, wählen Sie die Registerkarte *ausgeschlossene Workloads* aus und wählen Sie die Option *include Workload in Simulation* aus.
+.. Wählen Sie *Weiter*.
+
+. Überprüfen Sie die simulierten Ergebnisse für neue Hardware auf der Konfigurationsseite:
++
+image:tech-refresh-simulation-results2.png["Seite „Workloads simulieren“ mit den Simulationsergebnissen"]
+
++
+
+TIP: Die besten Empfehlungen sind mit einer „besten“ Angabe gekennzeichnet.
+
+. Um eine PDF-Datei der Empfehlungen herunterzuladen, wählen Sie *Download*.
+. So sprechen Sie mit einem NetApp Vertriebsmitarbeiter über die Empfehlungen:
++
+.. Wählen Sie *Kontakt*.
+.. Geben Sie die Kontaktdaten ein.
+.. Fügen Sie spezielle Hinweise für den NetApp Vertriebsmitarbeiter hinzu.
+.. Wählen Sie *Bestätigen und senden*.
+
+
+. Wählen Sie *Fertig*.
+
+
+.Ergebnis
+Die Empfehlungen aus der Workload-Simulation werden an einen NetApp Vertriebsmitarbeiter gesendet. Sie erhalten außerdem eine E-Mail mit der Bestätigung der Empfehlungen. Ein NetApp Vertriebsmitarbeiter wird Ihre Anfrage beantworten.
+
+
+
+== Hinzufügen eines Workloads
+
+Sie können einen Workload hinzufügen, der nicht bereits in der Workload-Simulation aufgeführt ist.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*.
++
+image:tech-refresh-list2.png["Seite zur Technologieaktualisierung, auf der die Registerkarte „Kandidaten für die Technologieaktualisierung“ angezeigt wird"]
+
+. Wählen Sie die Arbeitsumgebung aus.
+. Wählen Sie in der Spalte Aktionen die Option *Refresh bewerten* aus.
++
+image:tech-refresh-simulation-requirements3.png["Seite „Workloads simulieren“ mit den Anforderungsoptionen"]
+
+. Wählen Sie auf der Seite Workloads simulieren > Workload-Anforderungen die Option *Workload hinzufügen* aus.
++
+image:tech-refresh-workload-add2.png["Workload-Seite hinzufügen"]
+
+. Wählen Sie die Applikation aus, geben Sie einen Workload-Namen ein und wählen Sie eine Workload-Größe aus.
+. Geben Sie die erwarteten Kapazitäts- und Performance-Werte des Workloads ein.
++
+
+NOTE: Wenn Sie die Workload-Größe Small, Typical oder I/O-intensiv wählen, werden Standardwerte angezeigt.
+
+. Wählen Sie optional den Pfeil für erweiterte Optionen aus, und ändern Sie die Standardeinstellungen für die folgenden Informationen:
++
+** *Storage-Effizienz*: Ein typisches Datenreduzierungsverhältnis kann zwischen 2 und 1 liegen.
+** *Random Reads %*: Eine typische durchschnittliche IO-Größe für einen Random Read ist 16K.
+** *Sequenzielle Lesevorgänge %*: Ein typisches Lesemuster ist 50% zufällig und 50% sequenziell.
+** *Random Writes %*: Eine typische durchschnittliche IO Größe für einen Random Writes ist 32K.
+** *Sequential Writes %*: Ein typisches Schreibmuster ist 50% zufällig und 50% sequenziell.
+
+
 

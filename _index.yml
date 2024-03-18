@@ -1,11 +1,18 @@
 ---
 indexpage:
-  lead: Kapazitätsplanung ist wichtig, um unnötige Ausfallzeiten aufgrund geringer
-    Systemkapazitäten zu vermeiden. Die wirtschaftliche Effizienz von BlueXP unterstützt
-    Sie bei der Identifizierung von Clustern mit geringer Kapazität, der Überprüfung
-    von Clustern auf aktuelle und prognostizierte Kapazität sowie der Prüfung der
-    CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten für
-    Kapazitätserweiterungen zu ermitteln.
+  title: BlueXP Dokumentation zur wirtschaftlichen Effizienz
+  summary: Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller
+    oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering
+    oder zusätzliche Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen
+    zur Technologieaktualisierung für Systeme, die sich dem Ende ihres Lebenszyklus
+    nähern.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life
+  lead: Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller
+    oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering
+    oder zusätzliche Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen
+    zur Technologieaktualisierung für Systeme, die sich dem Ende ihres Lebenszyklus
+    nähern.
   tiles:
   - title: Los geht's
     links:

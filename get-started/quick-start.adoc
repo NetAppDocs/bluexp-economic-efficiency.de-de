@@ -27,7 +27,7 @@ link:../get-started/capacity-setup.html["Führen Sie die Schritte zum Einrichten
 Nachdem Sie den Service eingerichtet haben, gehen Sie wie folgt vor.
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["Bewerten Sie die Technologieaktualisierung"].
+* link:../use/tech-refresh.html["Nutzen Sie eine Bewertung zur Technologieaktualisierung oder simulieren Sie Ihre Workloads auf neuer Hardware"].
 * link:../use/capacity-review-status.html["Überprüfen Sie den Kapazitätsplanungsstatus"].
 * link:../use/capacity-add.html["Kapazitäten ergänzen"].
 * link:../use/capacity-tier-data.html["Tiering selten genutzter Daten in den Cloud-Storage zur Freigabe von Storage"].

@@ -16,6 +16,20 @@ Erfahren Sie mehr über die Neuerungen bei der wirtschaftlichen Effizienz von Bl
 
 
 
+== 14 März 2024
+
+Wenn Sie bereits über Assets verfügen und feststellen möchten, ob eine Technologie aktualisiert werden muss, können Sie die wirtschaftlichen Effizienzoptionen von BlueXP nutzen. Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie in den vergangenen 90 Tagen AutoSupport-Protokolle an NetApp gesendet haben, kann der Service jetzt eine Workload-Simulation durchführen, um die Performance Ihrer Workloads auf neuer Hardware zu ermitteln.
+
+Sie können auch einen Workload hinzufügen und vorhandene Workloads von der Simulation ausschließen.
+
+Bisher konnten Sie nur eine Bewertung Ihrer Ressourcen vornehmen und feststellen, ob eine Technologieerneuerung empfohlen wird.
+
+Die Funktion ist jetzt Teil der Option „Tech Refresh“ in der linken Navigation.
+
+Erfahren Sie mehr über das link:../use/tech-refresh.html["Bewertung einer Technologieaktualisierung"].
+
+
+
 == Bis 08. November 2023
 
 Diese Version der wirtschaftlichen Effizienz von BlueXP enthält eine neue Option, mit der Sie Ihre Assets bewerten und feststellen können, ob eine Technologieaktualisierung empfohlen wird. Der Service umfasst eine neue Option zur technischen Aktualisierung in der linken Navigation, neue Seiten, auf denen Sie eine Bewertung Ihrer aktuellen Workloads und Ressourcen vornehmen können, sowie einen Bericht mit Empfehlungen für Sie.
