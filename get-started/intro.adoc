@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: get-started/intro.html 
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage 
-summary: 'Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen zur Technologieaktualisierung für Systeme, die sich dem Ende ihres Lebenszyklus nähern.' 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast 
+summary: Der BlueXP  Service zur wirtschaftlichen Effizienz identifiziert Cluster mit aktuell oder mit prognostizierter niedriger Kapazität und gibt Ihnen Empfehlungen für das Daten-Tiering. 
 ---
 = Erfahren Sie mehr über die wirtschaftliche Effizienz von BlueXP
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit 
 
 
 [role="lead"]
-Die wirtschaftliche Effizienz von BlueXP bewertet zwei wichtige Bereiche Ihrer Umgebung: Ihre Storage-Assets mit vorhandener oder prognostizierter niedriger Kapazität und Ihre Systeme, die sich dem Ende ihrer Lebensdauer nähern. Der Service gibt Empfehlungen für das Daten-Tiering oder zusätzliche Kapazität (für AFF Systeme) sowie Optionen für Technologieaktualisierungen, die Ihre geschäftlichen Anforderungen erfüllen.
+Die wirtschaftliche Effizienz von BlueXP  bewertet Ihre Storage-Assets anhand aktueller oder prognostizierter Kapazitäten. Der Service gibt Empfehlungen für die Daten-Tiering-Optionen, die Ihre Geschäftsanforderungen erfüllen.
 
 Die wirtschaftliche Effizienz von BlueXP unterstützt Sie dabei, folgende Ziele zu erreichen.
 
@@ -20,20 +20,6 @@ Die wirtschaftliche Effizienz von BlueXP unterstützt Sie dabei, folgende Ziele 
 
 * Identifizieren Sie Storage-Assets in Ihrer Umgebung, die wenig Kapazität zeigen.
 * Prüfen Sie Assets auf aktuelle und prognostizierte Kapazitäten.
-* Prüfen Sie die CPU-Auslastung, IOPS-Performance und Latenz-Performance, um Möglichkeiten zur Behebung von Kapazitätsremaßnahmen zu ermitteln.
-* Empfehlungen für Kapazitätserweiterungen, die für Ihre Umgebung relevant sind
-
-
-Die wirtschaftliche Effizienzplanung von BlueXP lässt sich nur auf lokale AFF Systeme anwenden (einschließlich einheitlicher AFF und aller SAN-Array-Systeme).
-
-*Bewertung und Simulation von Technologieerneuerungen*
-
-* Führen Sie eine Simulation Ihrer Workloads auf neuer Hardware durch und laden Sie die Ergebnisse herunter.
-* Prüfen Sie eine Liste von Systemen, die sich dem Ende des Lebenszyklus nähern oder anderen Lebenszyklusereignissen nähern.
-* Überprüfung einer Bewertung Ihrer aktuellen Arbeitsumgebung und Empfehlungen für Technologieaktualisierungen, die Ihren Workload-, Kapazitäts-, Performance- und Budgetanforderungen entsprechen
-+
-image:economic-efficiency-diagram-overview2.png["Diagramm der wirtschaftlichen Effizienz von BlueXP durch Technologieaktualisierungen"]
-
 
 
 
@@ -42,8 +28,7 @@ image:economic-efficiency-diagram-overview2.png["Diagramm der wirtschaftlichen E
 
 Die wirtschaftliche Effizienz von BlueXP bietet folgende Vorteile:
 
-* Ermittelt Systeme, die sich dem Lebenszyklus nähern, um Sie bei der Planung einer Technologieaktualisierung zu unterstützen, entweder durch eine kurze Bewertung oder durch eine Workload-Simulation auf neuer Hardware
-* Zusätzlicher Kapazität lässt sich durch einen einfachen Prozess ermitteln
+* Identifiziert Systeme, die sich den Lebenszyklusereignissen nähern, um Sie bei der Planung einer Technologieaktualisierung zu unterstützen
 * Bietet Empfehlungen eines vertrauenswürdigen Beraters zur Behebung von Kapazitätsproblemen in Ihrer Umgebung
 * Weniger Zeitaufwand für die Planung von zusätzlichem Storage
 

@@ -16,6 +16,16 @@ Erfahren Sie mehr über die Neuerungen bei der wirtschaftlichen Effizienz von Bl
 
 
 
+== 15 Mai 2024
+
+Einige der BlueXP  Funktionen zur wirtschaftlichen Effizienz wurden vorübergehend deaktiviert:
+
+* Technologieaktualisierungen
+* Kapazitäten ergänzen
+
+
+
+
 == 14 März 2024
 
 Wenn Sie bereits über Assets verfügen und feststellen möchten, ob eine Technologie aktualisiert werden muss, können Sie die wirtschaftlichen Effizienzoptionen von BlueXP nutzen. Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie in den vergangenen 90 Tagen AutoSupport-Protokolle an NetApp gesendet haben, kann der Service jetzt eine Workload-Simulation durchführen, um die Performance Ihrer Workloads auf neuer Hardware zu ermitteln.

@@ -1,18 +1,14 @@
 ---
 indexpage:
   title: BlueXP Dokumentation zur wirtschaftlichen Effizienz
-  summary: Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller
-    oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering
-    oder zusätzliche Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen
-    zur Technologieaktualisierung für Systeme, die sich dem Ende ihres Lebenszyklus
-    nähern.
+  summary: Der BlueXP  Service zur wirtschaftlichen Effizienz identifiziert Cluster
+    mit aktuell oder mit prognostizierter niedriger Kapazität und gibt Ihnen Empfehlungen
+    für das Daten-Tiering.
   keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life
-  lead: Der BlueXP Service für wirtschaftliche Effizienz erkennt Cluster mit aktueller
-    oder prognostizierter niedriger Kapazität und bietet Empfehlungen für Daten-Tiering
-    oder zusätzliche Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen
-    zur Technologieaktualisierung für Systeme, die sich dem Ende ihres Lebenszyklus
-    nähern.
+  lead: Der BlueXP  Service zur wirtschaftlichen Effizienz identifiziert Cluster mit
+    aktuell oder mit prognostizierter niedriger Kapazität und gibt Ihnen Empfehlungen
+    für das Daten-Tiering.
   tiles:
   - title: Los geht's
     links:
