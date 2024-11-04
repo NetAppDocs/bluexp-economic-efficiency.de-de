@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">Sie können auch einen Workload hinzufügen und vorhandene Workloads von der Simulation ausschließen.</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">Bisher konnten Sie nur eine Bewertung Ihrer Ressourcen vornehmen und feststellen, ob eine Technologieerneuerung empfohlen wird.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">Die Funktion ist jetzt Teil der Option „Tech Refresh“ in der linken Navigation.</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Erfahren Sie mehr über das <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Datenzugriff</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">Sie können auf diese Funktion entweder über die wirtschaftliche Effizienz von BlueXP (*Governance* &gt; *wirtschaftliche Effizienz* &gt; *Tech Refresh*) oder über den digitalen NetApp-Berater (*Dashboard* &gt; *Planungs-Widget* &gt; *Tech Refresh*) zugreifen.</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP Dokumentation zur wirtschaftlichen Effizienz</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu ermöglichen, müssen die Zugangsdaten auf der NetApp Support Website Ihrer BlueXP  Abteilung zugeordnet werden:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">Das Zuordnen von NSS-Anmeldeinformationen zu Ihrer BlueXP -Organisation unterscheidet sich von dem NSS-Konto, das mit einer BlueXP -Benutzeranmeldung verknüpft ist.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Diese NSS-Anmeldedaten sind mit Ihrer spezifischen BlueXP -Organisations-ID verknüpft. Benutzer, die zur BlueXP -Organisation gehören, können über *Support &gt; NSS-Verwaltung* auf diese Anmeldeinformationen zugreifen.</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">Optionen für die Technologieaktualisierung</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">Erfahren Sie mehr über die<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>.</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">Deaktivierte Funktionen</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">Einführung der wirtschaftlichen Effizienz von BlueXP </block>
 </blocks>

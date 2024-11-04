@@ -1,0 +1,9 @@
+= Technologieaktualisierungen
+:allow-uri-read: 
+
+
+
+
+=== Technologieaktualisierungen
+
+Diese Version der wirtschaftlichen Effizienz von BlueXP enthält eine neue Option, mit der Sie Ihre Assets bewerten und feststellen können, ob eine Technologieaktualisierung empfohlen wird. Der Service umfasst eine neue Option zur technischen Aktualisierung in der linken Navigation, neue Seiten, auf denen Sie eine Bewertung Ihrer aktuellen Workloads und Ressourcen vornehmen können, sowie einen Bericht mit Empfehlungen für Sie.
