@@ -26,8 +26,6 @@ indexpage:
       url: "/get-started/faq.html"
   - title: Nutzen Sie die wirtschaftliche Effizienz von BlueXP
     links:
-    - title: Bewerten Sie die Technologieaktualisierung
-      url: "/use/tech-refresh.html"
     - title: Überprüfung und Behebung von Kapazitätsproblemen
       url: "/use/capacity-remediate-overview.html"
     - title: Überprüfen Sie den Kapazitätsstatus

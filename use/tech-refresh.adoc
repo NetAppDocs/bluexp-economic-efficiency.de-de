@@ -25,7 +25,7 @@ Systeme eignen sich aufgrund folgender Faktoren für eine Technologieaktualisier
 
 
 
-TIP: Sie können auf diese Funktion entweder über die wirtschaftliche Effizienz von BlueXP oder über NetApp Digital Advisor zugreifen.
+TIP: Sie können auf diese Funktion entweder über BlueXP  Economic Efficiency oder über Digital Advisor zugreifen.
 
 
 

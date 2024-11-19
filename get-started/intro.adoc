@@ -45,4 +45,4 @@ Wenn Sie kalte Daten auf Cloud-Storage verschieben möchten, müssen Sie Ihren C
 
 == Datenzugriff
 
-Sie können auf diese Funktion entweder über die wirtschaftliche Effizienz von BlueXP (*Governance* > *wirtschaftliche Effizienz* > *Tech Refresh*) oder über den digitalen NetApp-Berater (*Dashboard* > *Planungs-Widget* > *Tech Refresh*) zugreifen.
+Sie können diese Funktion entweder über BlueXP  Economic Efficiency (*Governance* > *Economic Efficiency* > *Tech Refresh*) oder über Active IQ Digital Advisor (auch als digitaler Berater bekannt) (*Dashboard* > *Planungs-Widget* > *Tech Refresh*) aufrufen.
